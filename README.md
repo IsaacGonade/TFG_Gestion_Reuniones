@@ -1,6 +1,8 @@
 Memoria del proyecto:
 <br>
-<p>Desarrollo de una aplicación de gestión de reuniones con Power Apps, Power Automate y SharePoint. Isaac González Adeva</p>
+<p>Desarrollo de una aplicación de gestión de reuniones con Power Apps, Power Automate y SharePoint.</p>
+<br>
+<p>Isaac González Adeva.</p>
 <br>
 <a href="">Enlace a la memoria</a>
 <br>

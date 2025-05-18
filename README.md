@@ -6,4 +6,4 @@ Memoria del proyecto:
 <br>
 <a href="">Enlace a la memoria</a>
 <br>
-<a href="[https://github.com/IsaacGonade/TFG_Gestion_Reuniones/blob/main/Gonz%C3%A1lez_Adeva_Isaac_Manual_ProyectoFinal_DAM25.pdf](https://github.com/IsaacGonade/TFG_Gestion_Reuniones/blob/main/Gonz%C3%A1lez_Adeva_Isaac_Manual_ProyectoFinal_DAM25.pdf)">Enlace al manual de usuario</a>
+<a href="https://github.com/IsaacGonade/TFG_Gestion_Reuniones/blob/main/Gonz%C3%A1lez_Adeva_Isaac_Manual_ProyectoFinal_DAM25.pdf">Enlace al manual de usuario</a>

@@ -1,5 +1,5 @@
 # Aplicación para la gestión de reuniones
-<p>Desarrollo de una aplicación para la gestión de reuniones.</p>
+<p>Desarrollo de una aplicación para la gestión de reuniones. Pudiendo crearlas, editarlas o eliminarlas para luego poder visualizarlas en un calendario o en un listado general.</p>
 
 ## Enlaces: 
 <a href="https://github.com/IsaacGonade/TFG_Gestion_Reuniones/blob/main/Gonzalez_Adeva_Isaac_Memoria_ProyectoFinal_DAM25.pdf">Enlace a la memoria</a>
